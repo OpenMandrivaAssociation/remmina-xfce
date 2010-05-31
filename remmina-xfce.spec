@@ -15,6 +15,7 @@ Requires:	remmina >= %{version}-%{release}
 BuildRequires:	libxfce4util-devel >= 4.3.99.2
 BuildRequires:	libxfce4-panel-devel >= 4.3.99.2
 BuildRequires:	avahi-client-devel
+BuildRequires:	intltool >= 0.35.0
 
 %description
 Remmina is a remote desktop client written in GTK+, aiming to be
