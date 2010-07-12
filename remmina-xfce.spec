@@ -31,6 +31,8 @@ This package contains an Xfce panel plugin for remmina.
 %setup -q
 
 %build
+aclocal
+autoconf
 %configure
 %make
 
