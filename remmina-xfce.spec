@@ -1,6 +1,6 @@
 Summary:	Xfce panel plugin for remmina
 Name:		remmina-xfce
-Version:	0.8.0
+Version:	0.8.1
 Release:	%mkrel 1
 License:	GPLv2
 Group:		Graphical desktop/Xfce
@@ -28,8 +28,6 @@ This package contains an Xfce panel plugin for remmina.
 %setup -q
 
 %build
-aclocal
-autoconf
 %configure2_5x
 %make
 
