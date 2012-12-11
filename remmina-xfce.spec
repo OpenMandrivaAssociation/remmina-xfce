@@ -44,3 +44,23 @@ This package contains an Xfce panel plugin for remmina.
 %_libdir/xfce4/panel-plugins/*.*
 %_datadir/xfce4/panel-plugins/remmina-xfce-plugin.desktop
 %_datadir/locale/*/*/remmina-xfce.mo
+
+
+%changelog
+* Fri Apr 29 2011 Tomasz Pawel Gajc <tpg@mandriva.org> 0.8.1-2mdv2011.0
++ Revision: 660729
+- rebuild
+
+* Sat Sep 04 2010 Tomasz Pawel Gajc <tpg@mandriva.org> 0.8.1-1mdv2011.0
++ Revision: 575892
+- update to new version 0.8.1
+
+* Sat Jul 17 2010 Tomasz Pawel Gajc <tpg@mandriva.org> 0.8.0-1mdv2011.0
++ Revision: 554538
+- update to new version 0.8.0
+- spec file clean
+
+* Tue Jul 13 2010 Lev Givon <lev@mandriva.org> 0.7.3-1mdv2011.0
++ Revision: 551388
+- import remmina-xfce
+
