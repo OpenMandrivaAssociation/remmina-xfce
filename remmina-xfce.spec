@@ -1,7 +1,7 @@
 Summary:	Xfce panel plugin for remmina
 Name:		remmina-xfce
 Version:	0.8.1
-Release:	%mkrel 2
+Release:	3
 License:	GPLv2
 Group:		Graphical desktop/Xfce
 Url:		http://remmina.sourceforge.net/
